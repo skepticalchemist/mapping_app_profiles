@@ -12,3 +12,9 @@ Using data analytics made it possible to map the profile of English free apps fr
 Besides that, the suggested apps have a strong social-network DNA what could make them funny and addictive to the users.
 
 As expected, most of the time was consumed in cleaning the data. In addition, data visualization with Matplotlib make the analysis easier.
+
+
+Libraries used in this project:
+* `numpy`
+* `matplotlib`
+* `csv`
